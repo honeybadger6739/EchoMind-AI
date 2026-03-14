@@ -1,7 +1,7 @@
 # EchoMind - AI Assistant
 
 ## Overview
-EchoMind is an offline AI assistant designed to work without internet using local AI models.
+EchoMind is an offline voice AI assistant designed to work without internet using local AI models.
 
 ## Features
 - Conversational AI
